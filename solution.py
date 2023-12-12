@@ -1,6 +1,3 @@
-# Sara Ghasedi
-# MATH 4610 Project #1
-
 import math
 
 
